@@ -7,13 +7,13 @@ body{
 	font-family: system-ui, sans-serif;
 	line-height: 1.65;
 	color: #18332b;
-	background: #99cccc;
+	background: #f4f8f5;
 }
 
 header, footer{
 	padding: 1rem;
 	color: black;
-	background: #000000;
+	background: #99cccc;
 }
 
 .site-name{
